@@ -1,0 +1,14 @@
+{
+    "name": "vendor/packages",
+    "autoload": {
+        "psr-4": {
+            "singleton\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamed"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,14 @@
+{
+    "name": "vendor/obs",
+    "autoload": {
+        "psr-4": {
+            "Observer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adel"
+        }
+    ],
+    "require": {}
+}

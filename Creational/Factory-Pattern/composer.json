@@ -1,0 +1,14 @@
+{
+    "name": "vendor/factory",
+    "autoload": {
+        "psr-4": {
+            "Factory\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adl"
+        }
+    ],
+    "require": {}
+}

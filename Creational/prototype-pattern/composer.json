@@ -1,0 +1,14 @@
+{
+    "name": "vendor/prototype-pattern",
+    "autoload": {
+        "psr-4": {
+            "PrototypePattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adel"
+        }
+    ],
+    "require": {}
+}

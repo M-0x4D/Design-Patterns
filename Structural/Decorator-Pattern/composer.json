@@ -1,0 +1,14 @@
+{
+    "name": "vendor/decorator",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Decorator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adel"
+        }
+    ],
+    "require": {}
+}

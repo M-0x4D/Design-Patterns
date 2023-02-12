@@ -1,0 +1,14 @@
+{
+    "name": "vendor/builder",
+    "autoload": {
+        "psr-4": {
+            "Builder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adel"
+        }
+    ],
+    "require": {}
+}

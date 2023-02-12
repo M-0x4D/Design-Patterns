@@ -1,0 +1,14 @@
+{
+    "name": "vendor/proxy",
+    "autoload": {
+        "psr-4": {
+            "Proxy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adel"
+        }
+    ],
+    "require": {}
+}
